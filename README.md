@@ -1,12 +1,17 @@
 # Full-Stack Web Developer Nanodegree
 
+[My Udacity profile](https://profiles.udacity.com/u/eak)
+
 This is the list of projects I did for my [Full-Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
+
+
 
 Graduated on **31st January 2017**
 
 ## Project 1 - Movie Trailer Website
 
 This project was about creating server-side code to store a list of my favorite movies.
+
 Technologies: Python, HTML, CSS
 
 - [Source Code](https://github.com/eakmotion/MovieTrailerWebsite)
